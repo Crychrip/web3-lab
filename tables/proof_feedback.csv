@@ -1,0 +1,7 @@
+mode,miner,selected,reputation,fraud_strike,reward
+rating_only,M1,126,95.257413,0,31.500000
+rating_only,M2,141,95.257413,0,35.250000
+rating_only,M3,133,95.257413,0,33.250000
+bisection_feedback,M1,200,95.257413,0,50.505051
+bisection_feedback,M2,196,95.257413,0,49.494949
+bisection_feedback,M3,4,0.091105,4,0.000000

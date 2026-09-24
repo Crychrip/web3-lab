@@ -1,0 +1,50 @@
+{
+  "onchain_weights": {
+    "C1": 100,
+    "C2": 300,
+    "C3": 600
+  },
+  "wrr_weights": {
+    "C1": 1,
+    "C2": 3,
+    "C3": 6
+  },
+  "requests": 1000,
+  "sybil_rejected": 50,
+  "designate_attempts": 30,
+  "malicious_blocked": 30,
+  "accepted": 922,
+  "pbft0": {
+    "agree": true,
+    "committed": 922,
+    "drops": 0,
+    "hash": "145e3aeb1b558b80",
+    "honestLen": 922,
+    "ok": true,
+    "sends": 4563900,
+    "submitted": 922
+  },
+  "pbft5": {
+    "agree": false,
+    "committed": 200,
+    "drops": 281621,
+    "hash": "535811789e0a0d58",
+    "honestLen": 200,
+    "ok": true,
+    "sends": 5630240,
+    "submitted": 200
+  },
+  "engine_rewards": {
+    "M1": 33.29718004338395,
+    "M2": 33.40563991323211,
+    "M3": 33.29718004338395
+  },
+  "onchain_rewards": {
+    "M1": 33,
+    "M2": 33,
+    "M3": 33
+  },
+  "total_locked": 1000,
+  "lock_events": 3,
+  "reward_events": 3
+}

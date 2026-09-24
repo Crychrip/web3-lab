@@ -1,0 +1,4 @@
+client,onchain_weight,wrr_weight,has_pass
+C1,100,1,true
+C2,300,3,true
+C3,600,6,true

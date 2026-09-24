@@ -1,0 +1,10 @@
+n,loss,byzantine,honest_agree,honest_len,hash,committed
+7,0.00,0,true,400,e65c2a44d166e937,400
+16,0.00,0,true,400,e65c2a44d166e937,400
+31,0.00,0,true,300,69bcb56b85bbf137,300
+50,0.00,0,true,200,6644a796aca78476,200
+50,0.01,0,true,200,6644a796aca78476,200
+50,0.05,0,false,200,15cbba28cdefa3fc,200
+50,0.10,0,false,200,d7b5ca0d81a33b38,200
+7,0.05,2,true,200,6644a796aca78476,200
+16,0.05,5,false,196,c9ca38a40bdcf8bf,196

@@ -1,0 +1,5 @@
+round,query,equal,remaining,note
+1,L6,1,L7 L8 L9 L10 L11 L12,outputs match; drop this node and its ancestors
+2,L9,0,L7 L8 L9,outputs differ; drop strictly downstream nodes
+3,L8,0,L7 L8,outputs differ; drop strictly downstream nodes
+4,L7,0,L7,outputs differ; drop strictly downstream nodes

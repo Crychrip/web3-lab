@@ -1,0 +1,11 @@
+metric,value
+sybil_rejected,50
+designate_attempts,30
+malicious_blocked,30
+accepted,922
+pbft0_committed,922
+pbft0_agree,True
+pbft5_committed,200
+pbft5_agree,False
+total_locked,1000
+reward_onchain_sum,99
